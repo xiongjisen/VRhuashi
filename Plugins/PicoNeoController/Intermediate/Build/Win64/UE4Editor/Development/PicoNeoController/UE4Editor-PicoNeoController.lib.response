@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PicoNeoController.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\2021Project\PicoTest\PicoTest\Intermediate\Build\Win64\PicoRenderTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"F:\2021Project\PicoTest\PicoTest\Plugins\PicoNeoController\Intermediate\Build\Win64\UE4Editor\Development\PicoNeoController\Module.PicoNeoController.cpp.obj"
+"F:\2021Project\PicoTest\PicoTest\Plugins\PicoNeoController\Intermediate\Build\Win64\UE4Editor\Development\PicoNeoController\Module.PicoNeoController.gen.cpp.obj"
+"F:\2021Project\PicoTest\PicoTest\Plugins\PicoNeoController\Intermediate\Build\Win64\UE4Editor\Development\PicoNeoController\Default.rc2.res"
+/OUT:"F:\2021Project\PicoTest\PicoTest\Plugins\PicoNeoController\Intermediate\Build\Win64\UE4Editor\Development\PicoNeoController\UE4Editor-PicoNeoController.lib"
+/INCLUDE:IMPLEMENT_MODULE_PicoNeoController

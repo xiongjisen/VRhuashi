@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PicoMobileController.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\2021Project\PicoTest\PicoTest\Intermediate\Build\Win64\PicoRenderTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"F:\2021Project\PicoTest\PicoTest\Plugins\PicoMobileController\Intermediate\Build\Win64\UE4Editor\Development\PicoMobileController\Module.PicoMobileController.cpp.obj"
+"F:\2021Project\PicoTest\PicoTest\Plugins\PicoMobileController\Intermediate\Build\Win64\UE4Editor\Development\PicoMobileController\Module.PicoMobileController.gen.cpp.obj"
+"F:\2021Project\PicoTest\PicoTest\Plugins\PicoMobileController\Intermediate\Build\Win64\UE4Editor\Development\PicoMobileController\Default.rc2.res"
+/OUT:"F:\2021Project\PicoTest\PicoTest\Plugins\PicoMobileController\Intermediate\Build\Win64\UE4Editor\Development\PicoMobileController\UE4Editor-PicoMobileController.lib"
+/INCLUDE:IMPLEMENT_MODULE_PicoMobileController
